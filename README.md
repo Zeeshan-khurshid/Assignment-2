@@ -47,3 +47,32 @@ Translate and print multiple test sentences using the trained model to verify th
 7.Visualization:
 Plot the training and validation loss curves using matplotlib to analyze model performance and training stability.
 </p>
+<hr>
+<h2>Sample outputs </h2>
+<p>
+  Input: hello
+Output: bonjour
+
+Input: how are you
+Output: comment ça va
+
+Input: i love you
+Output: je t'aime
+
+Input: thank you
+Output: merci
+
+Input: what is your name
+Output: comment tu t'appelles
+</p>
+
+
+
+
+
+
+
+
+
+
+
