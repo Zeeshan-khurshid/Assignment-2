@@ -50,19 +50,19 @@ Plot the training and validation loss curves using matplotlib to analyze model p
 <hr>
 <h2>Sample outputs </h2>
 <p>
-  Input: hello
+  Input: hello<br>
 Output: bonjour
 
-Input: how are you
+Input: how are you<br>
 Output: comment ça va
 
-Input: i love you
+Input: i love you<br>
 Output: je t'aime
 
-Input: thank you
+Input: thank you<br>
 Output: merci
 
-Input: what is your name
+Input: what is your name<br>
 Output: comment tu t'appelles
 </p>
 
